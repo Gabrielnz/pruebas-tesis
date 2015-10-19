@@ -1,0 +1,12 @@
+*.bak
+*.aux
+*.txt
+*.blg
+*.synctex.gz
+*.synctex.gz(busy)
+*.log
+*.bbl
+*.idx
+*.lof
+*.lot
+*.toc
